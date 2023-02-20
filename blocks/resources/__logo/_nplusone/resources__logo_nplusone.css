@@ -1,0 +1,8 @@
+.resources__logo_nplusone {
+  background-image: url(../../../../images/logo/resources-n1.svg);
+  transition: opacity .2s linear;
+}
+
+.resources__logo_nplusone:hover {
+  opacity: 0.65;
+}

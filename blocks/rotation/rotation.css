@@ -3,11 +3,10 @@
       transform: rotate(0deg);
   }
   to {
-      transform: rotate(360deg)
+      transform: rotate(360deg);
   }
 }
 
 .rotation {
-  transform: rotate(-15deg);
   animation: rotation infinite linear 20s;
 }
